@@ -1,0 +1,97 @@
+<!DOCTYPE html><html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>STIV | The Meme Coin That Respawns</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Courier New', monospace;
+      background-color: #1a1a1a;
+      color: #f5f5f5;
+      text-align: center;
+    }
+    header {
+      padding: 2rem;
+      background-color: #2b2b2b;
+    }
+    h1 {
+      font-size: 2.5rem;
+      color: #ff4c4c;
+      margin: 0.5rem 0;
+    }
+    .tagline {
+      font-size: 1.2rem;
+      color: #d9b800;
+    }
+    section {
+      padding: 2rem 1rem;
+    }
+    .tokenomics, .roadmap, .join {
+      background-color: #2a2a2a;
+      margin: 1.5rem auto;
+      padding: 1.5rem;
+      border-radius: 10px;
+      max-width: 90%;
+    }
+    a {
+      color: #00d0ff;
+      text-decoration: none;
+      font-weight: bold;
+    }
+    ul {
+      padding: 0;
+    }
+    ul li {
+      list-style: none;
+      padding: 0.4rem 0;
+    }
+    footer {
+      padding: 1rem;
+      font-size: 0.9rem;
+      color: #888;
+    }
+    img {
+      max-width: 100px;
+      height: auto;
+    }
+    @media (min-width: 768px) {
+      .tokenomics, .roadmap, .join {
+        max-width: 600px;
+      }
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <img src="stiv-logo.png" alt="STIV Logo" />
+    <h1>STIV</h1>
+    <p class="tagline">He doesn’t get rugged. He respawns.</p>
+  </header>  <section>
+    <h2>Who is STIV?</h2>
+    <p>
+      Rugged in the overworld. Reborn on Mars. STIV is the degen hero of the
+      Solana chain — a meme coin with pixel blood and diamond hands.
+    </p>
+  </section>  <section class="tokenomics">
+    <h2>Tokenomics</h2>
+    <p>Coming soon. Expect chaos. Fair launch. No VCs. Just blockgang.</p>
+  </section>  <section class="roadmap">
+    <h2>Roadmap</h2>
+    <ul>
+      <li>✓ Build hype and lore</li>
+      <li>✓ Drop pixel memes and trailers</li>
+      <li>⌛ Launch STIVlist for OGs</li>
+      <li>⏳ Website + DEX launch soon</li>
+    </ul>
+  </section>  <section class="join">
+    <h2>Join the Blockgang</h2>
+    <p>
+      Follow us on <a href="https://x.com/ceostiv" target="_blank">X</a><br />
+      Join the tribe on <a href="#">Discord</a> / <a href="#">Telegram</a>
+    </p>
+  </section>  <footer>
+    © 2025 STIV Project. Built from blocks, bound for Mars.
+  </footer>
+</body>
+</html>
